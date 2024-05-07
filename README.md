@@ -1,3 +1,7 @@
+--------------------
+
+由于github上传限制，较大的文件如Swin_Transformer权重文件、训练10个epoch所生成的模型文件以及原始光谱fits数据及其生成的png图片数据集，在这里均未上传，仅上传test.csv,LLM_test.csv文件供测评使用，后期会尝试将这些文件陆续补全。
+
 ------------------
 Swin Transformer 实现星系分类
 test.csv  测试文件
